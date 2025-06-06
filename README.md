@@ -4,7 +4,7 @@ A short description of the project goes here. This project aims to solve a speci
 
 ## Features
 
-- mmm yes, xp
+- mmm yes, xp again
 - more xp
 - Feature 3
 
@@ -14,15 +14,10 @@ A short description of the project goes here. This project aims to solve a speci
 
 ### Prerequisites
 
-- [Tool 1](https://example.com)
 - [Rewards](https://rewards.ambire.com)
+- [Ambire 1](https://ambire.com)
 
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-# Install dependencies
-npm install
-# Start the project
-npm start
+don't bother
