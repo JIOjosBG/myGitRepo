@@ -17,7 +17,7 @@ A short description of the project goes here. This project aims to solve a speci
 - [Rewards](https://rewards.ambire.com)
 - [Ambire 1](https://ambire.com)
 
-### Installation
+### Installation, how to install
 
 ```bash
 git clone https://github.com/your-username/your-repo.git
