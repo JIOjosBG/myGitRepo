@@ -8,7 +8,7 @@ A short description of the project goes here. This project aims to solve a speci
 - more xp
 - Feature 3
 
-## Getting Started
+## Getting Started, now
 
 - just start, its amazing
 
