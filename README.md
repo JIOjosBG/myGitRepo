@@ -14,8 +14,8 @@ A short description of the project goes here. This project aims to solve a speci
 
 ### Prerequisites
 
-- [Tool 1](https://example.com)
 - [Rewards](https://rewards.ambire.com)
+- [Ambire 1](https://ambire.com)
 
 ### Installation
 
